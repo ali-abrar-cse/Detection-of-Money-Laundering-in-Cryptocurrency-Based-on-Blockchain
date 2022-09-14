@@ -1,4 +1,4 @@
-# Detection-of-Money-Laundering-in-Cryptocurrency-Based-on-Blockchain
+# Detection of Money Laundering in Cryptocurrency Based on Blockchain
 # Description
 • Detecting money laundering in cryptocurrency by analyzing the activity dataset related to transactions within the network of specified Cryptocurrency
 
